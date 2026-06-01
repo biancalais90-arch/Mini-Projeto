@@ -80,3 +80,12 @@ Como executar:
 dart main.dart
 
 no codigo vai ate a linha 125 para roda o codigo.
+
+link do video no Google Driver
+https://drive.google.com/file/d/1ZphW2MDANcTCK1bANi2owbmXZ1TnVTRF/view?usp=sharing
+
+link do GitHub
+https://github.com/biancalais90-arch/Mini-Projeto.git
+
+link do trello
+https://trello.com/invite/b/6a17339b93ab48c7a001ff89/ATTIab4e5a71b721a74c9a5366da07d8dc8913B9BF13/mini-projeto-dart

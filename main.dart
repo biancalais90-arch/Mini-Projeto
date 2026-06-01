@@ -124,10 +124,11 @@ class RelatorioTarefas {
 }
 
 void main() {
+  //List foi utilizada para armazenar as tarefas.
   List<Tarefa> tarefas = dadosTarefas
       .map((item) => Tarefa.fromMap(item))
       .toList();
-
+//Eu ultilizei o map para percorrer cada tarefa
   print('\nTAREFAS CONVERTIDAS:\n');
 
   for (var tarefa in tarefas) {
@@ -139,7 +140,8 @@ void main() {
     print('Valor: R\$ ${tarefa.valor}');
     print('Horas: ${tarefa.horas}');
   }
-
+//Set Foi utilizado para obter os status sem repetição
+// foi utilizado map para agrupar horas por status.
   print('Status encontrados:');
   Set<String> statusUnicos = tarefas.map((tarefa) => tarefa.status).toSet();
   for (var status in statusUnicos) {
