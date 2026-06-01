@@ -28,8 +28,4 @@ Gerar relatório final
 
 Atualizar README
 
-Gravar vídeo
-
-Enviar links no AVA
-
 https://trello.com/invite/b/6a17339b93ab48c7a001ff89/ATTIab4e5a71b721a74c9a5366da07d8dc8913B9BF13/mini-projeto-dart

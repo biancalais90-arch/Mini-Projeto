@@ -246,4 +246,8 @@ void main() {
   );
 
   print('Total de horas concluídas: $horasConcluidas');
+
+  //esqueci de commita durante o projeto estou aprendendo.
 }
+
+
