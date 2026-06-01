@@ -75,10 +75,8 @@ Set
 
 Utilizado para identificar os status únicos encontrados nas tarefas.
 
-Como executar
+Como executar:
 
-Execute o arquivo main.dart.
-
-abrindo o link do github.
+dart main.dart
 
 no codigo vai ate a linha 125 para roda o codigo.
